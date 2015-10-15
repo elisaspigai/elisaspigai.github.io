@@ -1,9 +1,22 @@
 body {
-    background-color: lightblue;
-    margin-left: 30px;
+    background-color: none;
+    margin: 10%;
+    margin-right: 20%;
+    font-family: helvetica;
+
 }
 
 p{
 	margin-left:50px;
+	margin-top: 20px;
+
 }
 
+.images{
+	    margin-right: 50%;
+	    margin-left: 50%;
+}
+
+div{
+	margin-top: 10px;
+}
